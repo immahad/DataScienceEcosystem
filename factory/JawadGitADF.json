@@ -1,0 +1,9 @@
+{
+	"name": "JawadGitADF",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7be7d6c4-5992-4e7d-8be2-9760823aaa01",
+		"tenantId": "390e85dd-47f8-4f03-8112-242fefd1eee5"
+	}
+}
